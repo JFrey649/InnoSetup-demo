@@ -1,3 +1,9 @@
+报错1：Unknown identifier "CENTER"
+解决：将报错行换成 messagebox_close.Position := poScreenCenter;
+
+报错2：最小版本相关
+解决：5->6
+
 # InternetFashionedInstaller
 
 一个用**Inno Setup**仿**2345好压**安装程序的脚本模板，改一改背景图片就可以一键打包属于自己的美观的互联网风格的安装程序。
